@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {0.1}Introduction}{1}
+\contentsline {section}{\numberline {0.2}Uses cases}{2}
+\contentsline {subsection}{\numberline {0.2.1}Name:}{2}
+\contentsline {paragraph}{Identifier}{2}
+\contentsline {paragraph}{Description}{2}
+\contentsline {paragraph}{Goal}{2}
+\contentsline {paragraph}{Preconditions}{2}
+\contentsline {paragraph}{Assumptions}{2}
+\contentsline {paragraph}{Frequency}{2}
+\contentsline {paragraph}{Basic Course}{2}
+\contentsline {paragraph}{Alternate}{2}
+\contentsline {paragraph}{Condition:}{2}
+\contentsline {paragraph}{Post conditions}{2}
+\contentsline {paragraph}{Actors}{2}
+\contentsline {paragraph}{Included Use Cases}{2}
+\contentsline {paragraph}{Extended Use Case}{2}
